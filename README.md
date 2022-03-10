@@ -117,12 +117,13 @@ For any additional questions, please contact:
 Namita Rana at namitarana21@gmail.com
 
 
-## Repository Structure
+## Repository Structure                    
 
-├── Images<- 
-├── Notebook
+├── Image               #Result Images           
+├── NotBook
 ├── PDF
 ├── PPt
-└── Seattle_Crime_Forecasting.ipynb                           
-
+├── README.md
+├── Seattle_Crime_Forecasting.ipynb
+└── Project_presentation.pdf
 
