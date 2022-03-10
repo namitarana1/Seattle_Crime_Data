@@ -102,8 +102,13 @@ We are focussed on finding the best model for our time series in terms of lowest
 Best MOdel: SARIMA(1,1,1)(1,1,1,12) 
 ![image](https://user-images.githubusercontent.com/3522782/157556730-cbfea181-8aa1-4cb6-949a-c5adff43f86c.png)
 
-## Sample Output:
-
+### Conclusion
+We used ARIMA models and its variants: Seasonal ARIMA (SARIMA) and ARIMAX which uses external data (exogenous inputs) to improve the performance of the ARIMA model. We followed the Box-Jenkins method to find the best model considering a part of our dataset (time series of sales of product 28 of Walmart's store 2). As first step we've identified important characteristics of our time series such as stationarity and seasonality. Then, we also used graphical and statistical methods such as follows to find the best fit model:
+Augmented Dickey-Fuller test,
+ACF and PACF plots analysis,
+Exploring model summary statistics,
+Analyze plots obtained using the statsmodel method plot_diagnostics.
+We chose Arima(0,1,1) & Sarima(1,1,1)(1,1,1,12) as our best one's.The MAPE & MAE on both the models were the least. Out of these two SARIMAX performed better on the forecast hence we choose this as our final model.
 
 #### Future Work
 Advanced models like Prophet can be implemented.
