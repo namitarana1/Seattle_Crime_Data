@@ -114,7 +114,7 @@ Please review my full analysis in !![my Jupyter Notebook](https://github.com/nam
 
 For any additional questions, please contact:
 ## Namita Rana 
-### email:### namitarana21@gmail.com
+### email:namitarana21@gmail.com
 
 
 ## Repository Structure                    
