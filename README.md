@@ -87,9 +87,9 @@ We have implemented ARIMA,SARIMAX model's with different parameters,with automat
 We are focussed on finding the best model for our time series in terms of lowest Mean Absolute Percentage as it is unit-free and is safe to use for comparing performances of time series forecast values with different units. 
 
 ### Metrics used:
-# 1.MAPE(Mean Absolute Percentage Error)
-# 2.MAE(Mean Absolute Error)
-# 3.Import Packages and Functions
+#### 1.MAPE(Mean Absolute Percentage Error)
+#### 2.MAE(Mean Absolute Error)
+#### 3.Import Packages and Functions
 #### We'll make use of the following packages:
 ##### 1.numpy and pandas,
 #### 2.sklearn 
