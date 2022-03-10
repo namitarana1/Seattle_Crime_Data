@@ -110,7 +110,7 @@ Best MOdel: SARIMA(1,1,1)(1,1,1,12)
 Advanced models like Prophet can be implemented.
 
 ## For More Information
-Please review my full analysis in ![my Jupyter Notebook (/Seattle_Crime_Forecasting.ipynb.ipynb).
+Please review my full analysis in ![my Jupyter Notebook (/Seattle_Crime_Forecasting.ipynb).
 
 For any additional questions, please contact:
 
