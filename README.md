@@ -119,11 +119,13 @@ For any additional questions, please contact:
 
 ## Repository Structure                    
 
-├── Image               #Result Images           
+```
+├── Images<- 
+├── Docs
 ├── NotBook
 ├── PDF
 ├── PPt
-├── README.md
-├── Seattle_Crime_Forecasting.ipynb
-└── Project_presentation.pdf
+├── Seattle_Crime_Forecasting.pptx                               
+└── Seattle_Crime_Forecasting.ipynb                           
+```
 
