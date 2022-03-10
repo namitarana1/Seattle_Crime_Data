@@ -28,7 +28,7 @@ Author           : Namita Rana
 
 * Total : 962145 rows × 17 columns
 
-![Screen%20Shot%202022-03-09%20at%204.52.31%20AM.png](attachment:Screen%20Shot%202022-03-09%20at%204.52.31%20AM.png)
+![image](attachment:Screen%20Shot%202022-03-09%20at%204.52.31%20AM.png)
 
 ### Columns:
 
