@@ -118,9 +118,10 @@ Namita Rana at namitarana21@gmail.com
 
 
 ## Repository Structure
+
 ├── Images<- 
 ├── Docs
-├── Seattle_Crime_Forecasting.ipynb.pptx                               
-└── Seattle_Crime_Forecasting.ipynb.ipynb                           
+├── Seattle_Crime_Forecasting.pptx                               
+└── Seattle_Crime_Forecasting.ipynb                           
 
 
