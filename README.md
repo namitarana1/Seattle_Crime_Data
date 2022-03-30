@@ -114,7 +114,7 @@ We chose Arima(0,1,1) & Sarima(1,1,1)(1,1,1,12) as our best one's.The MAPE & MAE
 Advanced models like Prophet can be implemented.
 
 ## For More Information
-Please review my full analysis in !![my Jupyter Notebook](https://github.com/namitarana1/Seattle_Crime_Data/blob/master/Seattle_Crime_Forecasting.ipynb).
+Please review my full analysis in [my Jupyter Notebook](https://github.com/namitarana1/Seattle_Crime_Data/blob/master/Seattle_Crime_Forecasting.ipynb).
 
 
 For any additional questions, please contact:
