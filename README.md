@@ -99,7 +99,7 @@ We are focussed on finding the best model for our time series in terms of lowest
 
 
 #### Results
-Best MOdel: SARIMA(1,1,1)(1,1,1,12) 
+Best Model: SARIMA(1,1,1)(1,1,1,12) 
 ![image](https://user-images.githubusercontent.com/3522782/157556730-cbfea181-8aa1-4cb6-949a-c5adff43f86c.png)
 
 ### Conclusion
